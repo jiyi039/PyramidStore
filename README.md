@@ -4,6 +4,8 @@
 
 ### 食用方法
 
+#### 一定要开启存储权限！一定要开启存储权限！一定要开启存储权限！
+
 #### 在线配置
 ###### 1. 安装apk (测试阶段只提供armeabi-v7a和x86_64)
 ###### 2. 使用在线配置文件(https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json)
@@ -32,3 +34,7 @@ apk打包了armeabi-v7a和x86_64两个版本的依赖文件，所以比普通的
 
 ###### 5.目前还有哪些问题
 现缺失解密部分内容，以及解析器等功能
+
+#### 问题反馈
+有什么问题可以反馈到telegram(https://t.me/+A3SLQRmPVi9kOThl)
+不过由于工作原因，可能不会很及时的处理问题，请耐心等待。
